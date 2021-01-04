@@ -2,6 +2,3 @@ Hi, I'm Isaiah. I'm a Front End Developer with a love for animation inspired by 
 
 I'm currently looking to expand my JavaScript skillset as this has been the most challenging part of my learning. 
 
-You can view my portfolio (http://coachcarternyc.github.io)
-
-
